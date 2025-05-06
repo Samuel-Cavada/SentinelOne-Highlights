@@ -6,5 +6,4 @@
 
 # SentinelOne-Highlights
 
-➜ Monitored and responded to endpoint threats using SentinelOne’s autonomous threat detection and response capabilities.
-
+➜ Monitored and investigated endpoint anomalies using SentinelOne’s XDR capabilities to identify the root causes of false positives.
