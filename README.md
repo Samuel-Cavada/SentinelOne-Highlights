@@ -5,3 +5,6 @@
 </p>
 
 # SentinelOne-Highlights
+
+➜ Monitored and responded to endpoint threats using SentinelOne’s autonomous threat detection and response capabilities.
+
