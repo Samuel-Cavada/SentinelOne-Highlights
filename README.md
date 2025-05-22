@@ -4,6 +4,10 @@
   </a>
 </p>
 
-# SentinelOne-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/SentinelOne-Highlights/main/images/SENTINELONE.png" alt="SentinelOne Highlights" width="600">
+</p>
 
-➜ Monitored and investigated endpoint anomalies using SentinelOne’s XDR capabilities to identify the root causes of false positives.
+> This section highlights experience using SentinelOne’s XDR platform for proactive endpoint monitoring and threat detection.
+
+- Monitored and investigated endpoint anomalies using SentinelOne’s XDR capabilities to identify the root causes of false positives.
